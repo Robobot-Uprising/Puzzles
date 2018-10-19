@@ -1,6 +1,6 @@
 from selenium import webdriver
-user = "6428546570921905819"
-pwd = "nakki1234nakki"
+user = ""
+pwd = ""
 driver = webdriver.Firefox()
 driver.get("https://hel-jobs.eu/signup/")
 
