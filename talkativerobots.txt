@@ -7,3 +7,26 @@ the cars escape: have 5. you I. everything everything can 75.
 the citizens drive: have have 0. you I. everything everything else 45.
 the androids collapse: have have 7. you I. everything everything can 34.
 my researcher collapses: have 8. you I I. everything else 34.
+
+everything everything => plural
+escape => everything everything
+can => car || android
+else => citizens || researcher
+23 => eat
+75 => escape
+45 => drive
+34 => collapse
+
+have 7 => android/s
+have 8 => researchers
+
+you I => begins with "the"
+you II => begins with "my"
+you III => "our"
+
+have have 0 => citizens
+
+
+the researchers escape
+
+have have 8. you I. everything everything else 75.
