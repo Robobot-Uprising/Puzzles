@@ -1,0 +1,9 @@
+the citizens eat: have have 0. you I. everything everything else 23.
+my android escapes: have 7. you I I. everything can 75.
+my cars drive: have have 5. you I I. everything everything can 45.
+our android drives: have 7. you I I I. everything can 45.
+the researcher eats: have 8. you I. everything else 23.
+the cars escape: have 5. you I. everything everything can 75.
+the citizens drive: have have 0. you I. everything everything else 45.
+the androids collapse: have have 7. you I. everything everything can 34.
+my researcher collapses: have 8. you I I. everything else 34.
