@@ -1,0 +1,105 @@
+1539981113630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.CMHBoKNO65j1"
+1539981116045	Marionette	INFO	Listening on port 2556
+1539981116343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539981116381	Marionette	DEBUG	[6442450945] Frame script loaded
+1539981116385	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 27392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27160[Parent 27392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539981181626	Marionette	INFO	Stopped listening on port 2556
+[GPU 236
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539981208679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.uFrrNgmF55u1"
+1539981210723	Marionette	INFO	Listening on port 2588
+1539981210804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539981210860	Marionette	DEBUG	[6442450945] Frame script loaded
+1539981210874	Marionette	DEBUG	[6442450945] Frame script registered
+1539981210903	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539981211260	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539981211487	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hel-jobs.eu/c/bot-proof/
+1539981212632	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://hel-jobs.eu/c/bot-proof/
+1539981212641	Marionette	INFO	Stopped listening on port 2588
+[Parent 27124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27048,[Parent 27124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 24912
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539981792648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.s1qD3SXl0nLJ"
+1539981794701	Marionette	INFO	Listening on port 2704
+1539981794780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539981794833	Marionette	DEBUG	[6442450945] Frame script loaded
+1539981794849	Marionette	DEBUG	[6442450945] Frame script registered
+1539981794886	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539981795229	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539981795430	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hel-jobs.eu/c/bot-proof/
+1539981796606	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://hel-jobs.eu/c/bot-proof/
+[Parent 30540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30488, Chrome_ChildThread] WARNING: [Child 21044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21044, [Parent 30540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539981802159	Marionette	INFO	Stopped listening on port 2704
+[GPU 29856, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539981820631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PfYgiylYyyzM"
+1539981822658	Marionette	INFO	Listening on port 2746
+1539981822763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539981822821	Marionette	DEBUG	[6442450945] Frame script loaded
+1539981822832	Marionette	DEBUG	[6442450945] Frame script registered
+1539981822869	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539981823083	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539981823375	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hel-jobs.eu/signup/
+1539981823833	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539981824031	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1539981824047	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1539981824083	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539981824086	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539981824113	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539981824198	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://hel-jobs.eu/signup/
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://hel-jobs.eu
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://hel-jobs.eu
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 31700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 31700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31160, Chrome_[Parent 31700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539982043098	Marionette	INFO	Stopped listening on port 2746
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+M event DOMContentLoaded for https://hel-jobs.eu/signup/
+1539982014657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539982014830	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1539982014831	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1539982014864	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539982014869	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539982014894	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539982015004	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://hel-jobs.eu/signup/
+[Parent 30452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30348, Chrome_ChildThread[Child 30260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30260, Chrome_ChildThread] WAR[Parent 30452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539982038768	Marionette	INFO	Stopped listening on port 2806
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539982049115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ctzgkDmQm3q2"
+1539982051254	Marionette	INFO	Listening on port 2858
+1539982051357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539982051413	Marionette	DEBUG	[6442450945] Frame script loaded
+1539982051416	Marionette	DEBUG	[6442450945] Frame script registered
+1539982051445	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539982051727	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539982052046	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hel-jobs.eu/signup/
+1539982052915	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539982052991	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1539982052994	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539982053002	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539982053202	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539982053208	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539982053286	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://hel-jobs.eu/signup/
